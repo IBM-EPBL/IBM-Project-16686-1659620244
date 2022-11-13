@@ -1,0 +1,3 @@
+- [x] Proposed Solution <br>
+- [x] Problem Solution fit <br>
+- [x] Solution Architecture <br>
